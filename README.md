@@ -9,6 +9,7 @@
 | **Mata Kuliah** | Bahasa Pemrograman |
 
 # UAS
+# LINK Youtube https://youtu.be/LPWX3n8br5Q
 
 #### Buatlah package dan modul dengan struktur seperti berikut:
 - daftar_nilai.py berisi modul untuk:
@@ -160,13 +161,13 @@ Pada bagian dari `daftar_nilai.py` berisi program dengan perintah menambahkan da
 dan mencari salah satu data yg sudah di input.
 
 #### Tampilan output tambah data :
-![2](Picture/Gambar2.png)
+![2](Picture/Screenshot%20(55).png)
 #### Tampilan output hapus data :
-![3](Picture/Gambar3.png) 
+![3](Picture/Screenshot%20(58).png) 
 #### Tampilan output ubah NIM :
-![4](Picture/Gambar4.png)
+![4](Picture/Screenshot%20(57).png)
 #### Tampilan output cari data :
-![5](Picture/Gambar5.png)
+![5](Picture/Screenshot%20(60).png)
 
 
 ### 3. `view_nilai.py` berisi sourcode yg berfungsi menampilkan seluruh data
@@ -217,4 +218,4 @@ Di program ini terdapat modul yg menyambungkann `input_nilai.py` kedalam file pr
 dengan syntax `from model import daftar_nilai`. Fitur ini khusus untuk menginput nilai
 
 #### Tampilan output `input_nilai.py` :
-![6](Picture/Gambar6.png)
+![6](Picture/Screenshot%20(59).png)
